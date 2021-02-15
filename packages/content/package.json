@@ -14,7 +14,7 @@
   "dependencies": {
     "@lokidb/full-text-search": "^2.1.0",
     "@lokidb/loki": "^2.1.0",
-    "@nuxt/types": "^2.14.12",
+    "@nuxt/types": "^2.15.0",
     "@types/js-yaml": "^4.0.0",
     "@types/xml2js": "^0.4.8",
     "change-case": "^4.1.2",
@@ -30,7 +30,7 @@
     "hookable": "^4.4.0",
     "html-tags": "^3.1.0",
     "js-yaml": "4.0.0",
-    "mdast-util-to-hast": "^10.1.1",
+    "mdast-util-to-hast": "^10.2.0",
     "mkdirp": "^1.0.4",
     "node-req": "^2.1.2",
     "node-res": "^5.0.1",
